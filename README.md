@@ -1,2 +1,2 @@
 # SW_models
-Modèles SolidWorks
+Modèles SolidWorks .sldprt
