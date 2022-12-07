@@ -4,6 +4,6 @@ STL dans le dossier associé.
 Pour des projets associant plusieurs modèles, ils sont dans des doosiers séparé.
 
 [Matériel pédagogique illustrant les statistiques](./statistique_elie)
-
-[Clef de serrage batterie](./SW/batterie5.sldrpt)
+[Lampe de décoration](./lampe)
+[Clef de serrage batterie](./STL/batterie5.STL)
 
