@@ -1,2 +1,12 @@
-# SW_models
-Modèles SolidWorks .sldprt
+Portant_polycarbonate.SLDPRT
+README.md
+batterie.SLDPRT
+batterie2.SLDPRT
+batterie3.SLDPRT
+batterie4.SLDPRT
+batterie5.SLDPRT
+console.log
+portepc_soustable.SLDPRT
+protege_angle_BatA.SLDPRT
+serre_nappe.SLDPRT
+stand_panneau_bois.SLDPRT
