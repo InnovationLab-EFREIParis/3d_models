@@ -19,7 +19,7 @@ Modèles 3D au format Solidworks et/ou STL. Ces modèles ont servi à la fabricatio
 
 [Cache poteau](./Desir)
 
-[Protection Fauteuil Batiment A](./STL/protege_angle_BatA.STL)
+[Protection Fauteuil Batiment A](./ProtegeAngleBatA)
 
 [Accroche routeur NetGear](./NetGear5Ports_Bracket)
 
@@ -32,6 +32,8 @@ Modèles 3D au format Solidworks et/ou STL. Ces modèles ont servi à la fabricatio
 [Message porte machine bruyante](./PorteProtect)
 
 [Maintient table écritoire Ilab](./TableEcritoire_Ilab)
+
+
 
 ## Accesoires
 [Clef de serrage batterie](./STL/batterie5.STL)
