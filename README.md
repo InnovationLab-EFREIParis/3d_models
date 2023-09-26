@@ -1,18 +1,44 @@
 # Modèles 3D
-Les modèles Solidworks (.sldrpt) sont stockés dans le dossier SW solidworks.
-Ils sont également disposnible au format STL dans le dossier associé.
-Pour des projets associant plusieurs modèles, ils sont dans des dossiers séparé.
+Modèles 3D au format Solidworks et/ou STL. Ces modèles ont servi à la fabrication d'objet par impression, découpe ou fraisage.
 
-[Matériel pédagogique illustrant les statistiques](./statistique_elie)
-
+## Décoration
 [Lampe de décoration](./lampe)
 
-[Médaille (découpe laser et impression 3D)](./Medaille_Line)
+[Médaille Line](./Medaille_Line)
 
-[Cube de Menger](./cube_menger.STL)
+[Lampe Atelier Marion](./Lampe_LaserCut_Marion)
 
+## Pédagogie - Jeux
+[Matériel pédagogique illustrant les statistiques](./statistique_elie)
+
+[Cube de Menger](./CubeMenger)
+
+[Awale](./Awale)
+
+## Mobilier - Assemblage
+
+[Cache poteau](./Desir)
+
+[Protection Fauteuil Batiment A](./ProtegeAngleBatA)
+
+[Accroche routeur NetGear](./NetGear5Ports_Bracket)
+
+[Montant permettant de tenir des plaques de polycarbonates CNC](./Porte_PC)
+
+[Accroche Alimentation CNC](./Alim_Bracket)
+
+[Porte Accessoires CNC](./PorteAccessoireCNC)
+
+[Message porte machine bruyante](./PorteProtect)
+
+[Maintient table écritoire Ilab](./TableEcritoire_Ilab)
+
+[Cache USB](./USBCap)
+
+
+## Accesoires
 [Clef de serrage batterie](./STL/batterie5.STL)
 
-[Protection Fauteuil Batiment A](./STL/protege_angle_BatA.STL)
+[Adaptateur pour clef de serrage batterie pour visseuse](./AdaptateurVisseuseBatterie)
 
-
+[Boitier Etanche pour carte MDEK1001](./BoitierEtanche_MDEK1001)
