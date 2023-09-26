@@ -1,5 +1,8 @@
-# Modèles 3D
-Modèles 3D au format Solidworks et/ou STL. Ces modèles ont servi à la fabrication d'objet par impression, découpe ou fraisage.
+# Ressourcerie
+Partage de fichiers de conception numérique. Vous trouverez ici des fichiers qui ont servi à la fabrication d'objet par impression 3D, fraisage, découpe laser....
+Ces fichiers peuvent être au format Solidworks, STL, pdf....
+La seule contrainte est de faire un dossier par projet, et de le renseigner dans le fichier README.md. 
+
 
 ## Décoration
 [Lampe de décoration](./lampe)
